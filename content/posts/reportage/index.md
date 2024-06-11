@@ -3,6 +3,7 @@ title = "Reportage"
 date = "2024-06-11"
 draft = false
 pinned = false
+tags = ["Deutsch", "GymnasiumKirchenfeld"]
 +++
 HANDYS HABEN SUCHTPOTENZIAL\
 von Camille Geelhaar und Cielle Baumann 
@@ -40,7 +41,6 @@ Dies umschreibt Johann Hari in seinem Buch genauso: ,,Man verliert sich in seine
 
 Da Lia nicht an einer sogenannten ,,Social-Media’’- Handysucht gelitten hat, ist sie auch nicht von dem endlosen Scrollen betroffen gewesen. Stattdessen hat sie viel 
 
-
 ![](reportage2.png)
 
 Abb. 2: Handysucht
@@ -65,4 +65,24 @@ Auch Johann Hari betont in seinem Buch, dass uns das Handy einen Grossteil unser
 Nachdem wir uns intensiv mit den eingangs gestellten Fragen befasst haben, Interviews durchgeführt haben und ein Buch dazu gelesen haben, sind wir zu folgendem Fazit gekommen:
 Zur Sucht wird es, wenn man ohne Handy nicht mehr normal leben kann und man dauernd das Gefühl hat, online sein zu müssen, Nachrichten zu beantworten oder einem nichts mehr anderes bleibt, als das Game fertig zu spielen.
 Bei einer Handysucht ist man abhängig von dem Handy. Es ist, wenn man alles um sich herum für dieses Gerät liegen lässt.
-Es geht deshalb darum, den richtigen Umgang mit einem elektronischen Gerät, welches heute viel mehr ist als nur ein Telefon, und auf das wir teilweise mehr angewiesen sind als uns lieb ist, zu finden. Wie uns Herr Ammann erzählt hat, sei jede Person, die handysüchtig ist, von einem eigentlichen Auslöserproblem belastet, dem sie versucht auszuweichen. Seien es Hausaufgaben, Probleme in der Familie oder mit Freunden. Alles kann ein Auslöser sein. Wenn man diese von sich kennt und weiss, wie man sich selbst helfen kann, kann man die schwerwiegenden Folgen einer Handysucht umgehen. Damit unser Gehirn gesund bleibt, braucht es dringend täglich Pausen von elektronischen Geräten.
+Es geht deshalb darum, den richtigen Umgang mit einem elektronischen Gerät, welches heute viel mehr ist als nur ein Telefon, und auf das wir teilweise mehr angewiesen sind als uns lieb ist, zu finden. Wie uns Herr Ammann erzählt hat, sei jede Person, die handysüchtig ist, von einem eigentlichen Auslöserproblem belastet, dem sie versucht auszuweichen. Seien es Hausaufgaben, Probleme in der Familie oder mit Freunden. Alles kann ein Auslöser sein. Wenn man diese von sich kennt und weiss, wie man sich selbst helfen kann, kann man die schwerwiegenden Folgen einer Handysucht umgehen. Damit unser Gehirn gesund bleibt, braucht es dringend täglich Pausen von elektronischen Geräten. 
+
+Beeinflussung von sozialen Medien auf die Handysucht:
+„Spielen die sozialen Medien eine Rolle in Bezug auf die Handysucht?‘‘, diese Frage haben wir unseren drei Interviewpartnern gestellt und sie haben alle etwas unterschiedliche Ansichten gehabt. 
+Herr Ammann hat uns die Frage mit teilweise ja beantwortet. Er hat gesagt, es löse eine falsche Vorstellung vom Leben, aber eben auch zum eigenen Körper aus und gebe einem ein unzufriedenes und unglückliches Gefühl. Das Hauptproblem ist seiner Meinung nach der Algorithmus des endlosen Scrollens. 
+Lia hat gemeint, Social Media spiele nicht so eine grosse Rolle, da man auch handysüchtig sein könne ohne Snapchat, Tiktok etc. Sie selber hat diese Apps nicht gross benutzt, stattdessen ist sie gamingsüchtig gewesen.
+Herr Lanz hingegen hat die Frage mit, „Ja, wahrscheinlich schon’’, beantwortet. Er selbst benutze die sozialen Medien nur selten, doch er geht davon aus, dass sie einen sehr fordern und Zeit beanspruchend seien. 
+Unser Fazit dazu ist, dass die sozialen Medien die Handysucht beeinflussen können, jedoch ist es von persönlichen Interessen abhängig, wie stark sie Geist und Körper beeinträchtigen. 
+
+Tipps gegen die Handysucht
+Jede freie Sekunde am Handy? Alle anderen Aufgaben auf morgen verschieben? Nicht mehr aus dem Zimmer rauskommen? Diese Gefühle kennen viele Leute, welche ein Handy besitzen. Doch was kann man daran ändern? 
+
+Verschiedene Lösungsansätze:
+•	Funktion Bildschirmzeitbegrenzung einstellen
+•	Eine Auszeit von den sozialen Medien nehmen (tage-, wochen- oder monatsweise)
+•	Tagesablauf planen, damit man im Alltag alle Aufgaben erledigen kann, die man erreichen will
+•	Selbstreflexion 
+•	Zwei Stunden vor dem Schlafengehen keine elektronischen Geräte mehr benutzen
+•	Freundschaften offline pflegen
+•	Meditation, Yoga, Duftkerzen und andere Beruhigungs- und Entspannungsmethoden
+•	Das Buch ,, Abgelenkt: wie uns die Konzentration abhandenkam und wie wir sie zurückgewinnen’’ lesen
